@@ -1,2 +1,2 @@
-# C-Math-Basics-Toolkit
+# C++-Math-Basics-Toolkit
 Simple math calculator
