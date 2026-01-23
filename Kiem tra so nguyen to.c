@@ -1,30 +1,31 @@
 #include <iostream>
-#include <iomanip>
-#include <math.h>
-
-
 using namespace std;
 
+bool laSoNguyenTo(long long a) {
+    if (a < 2) return false;
+    if (a == 2 || a == 3) return true;
+    if (a % 2 == 0) return false;
+    for (long long i = 3; i * i <= a; i += 2) {
+        if (a % i == 0) return false;
+    }
+    return true;
+}
 
 int main() {
-	long long a; cin >> a;
- 	long long soluonguoc; soluonguoc = 0;
- 	for(long long i = 1; i <= a; i++) {
-     if(a % i == 0) {
-        soluonguoc += 1;
-	}
-	}
-	if (soluonguoc == 2) {
-    cout << "A la so nguyen to" << endl;
-	} 
-	else if (soluonguoc > 2) {
-    cout << "A khong phai la so nguyen to" << endl;
-	}
-	else {
-    cout << "Error" << endl;
-	}
-	cout << "So luong uoc cua" << " " << a << " la " << soluonguoc;
-	
-	
-	return 0;
+    long long a;
+    cout << "Nhap so a: ";
+    cin >> a;
+
+    if (a < 0) {
+        cout << "Du lieu khong hop le (a phai >= 0).\n";
+        return 0;
+    }
+
+    if (laSoNguyenTo(a)) {
+        cout << a << " la so nguyen to.\n";
+    } else {
+        cout << a << " khong phai la so nguyen to.\n";
+    }
+
+    return 0;
 }

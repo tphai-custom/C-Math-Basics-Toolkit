@@ -1,23 +1,37 @@
 #include <iostream>
-#include <iomanip>
-#include <math.h>
-
 using namespace std;
 
+long long tongUocRieng(long long a) {
+    if (a <= 1) return 0;
+    long long sum = 1;
+
+    for (long long i = 2; i * i <= a; i++) {
+        if (a % i == 0) {
+            sum += i;
+            long long j = a / i;
+            if (j != i) sum += j;
+        }
+    }
+    return sum;
+}
+
 int main() {
-	long long a; cin >> a;
-	long long tonguoc; tonguoc = 0;
-	for(int i = 1; i < a; i++) {
-		if (a % i == 0) {
-			tonguoc += i;
-		}
-	}
-	if (tonguoc == a)
-		cout << "A la so hoan hao";
-	else
-		cout << "A khong phai la so hoan hao";
-	
-	
-	
-	return 0;
+    long long a;
+    cout << "Nhap so a: ";
+    cin >> a;
+
+    if (a <= 0) {
+        cout << "Du lieu khong hop le (a phai > 0).\n";
+        return 0;
+    }
+
+    long long sum = tongUocRieng(a);
+
+    if (sum == a && a != 0) {
+        cout << a << " la so hoan hao.\n";
+    } else {
+        cout << a << " khong phai la so hoan hao.\n";
+    }
+    cout << "Tong uoc rieng cua a = " << sum << "\n";
+    return 0;
 }
