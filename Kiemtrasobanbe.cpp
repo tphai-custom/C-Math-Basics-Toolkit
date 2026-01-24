@@ -20,7 +20,7 @@ int main() {
 
     cout << "Nhap so a: ";
     cin >> a;
-    cout << "Nhap so b: ";
+    cout << "Nhap so b: ";  
     cin >> b;
 
     if (a <= 0 || b <= 0) {

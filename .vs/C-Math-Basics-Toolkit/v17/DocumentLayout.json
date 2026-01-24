@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\coding\\C-Math-Basics-Toolkit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasonguyento.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kiemtrasonguyento.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasobanbe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kiemtrasobanbe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\ProjectNumberTheoryLab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectNumberTheoryLab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1^2denn^2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tinhtongtu1^2denn^2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1denn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tinhtongtu1denn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\Sohoanhao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sohoanhao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\coding\\C-Math-Basics-Toolkit\\UCLN-BCNN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UCLN-BCNN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kiemtrasobanbe.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasobanbe.c",
+              "RelativeDocumentMoniker": "Kiemtrasobanbe.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasobanbe.c",
+              "RelativeToolTip": "Kiemtrasobanbe.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kiemtrasonguyento.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasonguyento.c",
+              "RelativeDocumentMoniker": "Kiemtrasonguyento.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\Kiemtrasonguyento.c",
+              "RelativeToolTip": "Kiemtrasonguyento.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectNumberTheoryLab.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\ProjectNumberTheoryLab.c",
+              "RelativeDocumentMoniker": "ProjectNumberTheoryLab.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\ProjectNumberTheoryLab.c",
+              "RelativeToolTip": "ProjectNumberTheoryLab.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:29.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sohoanhao.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\Sohoanhao.c",
+              "RelativeDocumentMoniker": "Sohoanhao.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\Sohoanhao.c",
+              "RelativeToolTip": "Sohoanhao.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:47.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tinhtongtu1denn.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1denn.c",
+              "RelativeDocumentMoniker": "Tinhtongtu1denn.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1denn.c",
+              "RelativeToolTip": "Tinhtongtu1denn.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:49.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tinhtongtu1^2denn^2.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1^2denn^2.c",
+              "RelativeDocumentMoniker": "Tinhtongtu1^2denn^2.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\Tinhtongtu1^2denn^2.c",
+              "RelativeToolTip": "Tinhtongtu1^2denn^2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCLN-BCNN.c",
+              "DocumentMoniker": "F:\\coding\\C-Math-Basics-Toolkit\\UCLN-BCNN.c",
+              "RelativeDocumentMoniker": "UCLN-BCNN.c",
+              "ToolTip": "F:\\coding\\C-Math-Basics-Toolkit\\UCLN-BCNN.c",
+              "RelativeToolTip": "UCLN-BCNN.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T09:16:54.379Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
